@@ -5,7 +5,7 @@
 🚀 Constantly exploring new technologies and frameworks to stay on the cutting edge, I thrive on tackling challenges and turning innovative ideas into reality.
 
 🔧 My skill set includes:
-   - Java, Kotlin
+   - Java
    - Android SDK
    - HTML, CSS, JavaScript
    - React.js, Node.js
@@ -17,8 +17,3 @@
 📫 Let's connect! Feel free to reach out for discussions, collaborations, or just to geek out about the latest in tech.
 
 Happy coding! 🚀
-
-<!---
-Susanta37/Susanta37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
