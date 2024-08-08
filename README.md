@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **I enjoy exploring new programming languages and frameworks in my free time.**
 
+  
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=susanta37&" alt="susanta37" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/susant37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susant37" height="30" width="40" /></a>
