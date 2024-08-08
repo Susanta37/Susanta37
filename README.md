@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Asset managementSystem](https://github.com/Susanta37)
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **MERN Stack. and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Susanta37](https://github.com/Susanta37)
 
