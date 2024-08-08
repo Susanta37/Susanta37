@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanta37&label=Profile%20views&color=0e75b6&style=flat" alt="susanta37" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susanta37" alt="susanta37" /></a> </p>
+
 
 - 🔭 I’m currently working on [Asset managementSystem](https://github.com/Susanta37)
 
