@@ -27,7 +27,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=susanta37&show_icons=true&locale=en" alt="susanta37" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susanta37&show_icons=true&locale=en&layout=compact" alt="susanta37" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Susant37"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Susant37" /></a></p>
