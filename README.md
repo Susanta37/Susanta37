@@ -5,28 +5,6 @@
 
 
 
-- 🔭 I’m currently working on [Asset managementSystem](https://github.com/Susanta37)
-
-- 🌱 I’m currently learning **MERN Stack. and Laravel**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Susanta37](https://github.com/Susanta37)
-
-- 📝 I regularly write articles on [https://amsusantportfolio.web.app/](https://amsusantportfolio.web.app/)
-
-- 💬 Ask me about **Java,JavaScript,SQL,MERN**
-
-- 📫 How to reach me **wwwsusant37@gmail.com**
-
-- 📄 Know about my experiences [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
-
-- ⚡ Fun fact **I enjoy exploring new programming languages and frameworks in my free time.**
-
-  
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=susanta37&" alt="susanta37" /></p>
-
-
-
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Susant37"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Susant37" /></a></p>
 <br><br>
